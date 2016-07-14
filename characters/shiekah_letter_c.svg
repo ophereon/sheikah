@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	 viewBox="0 0 585 585" style="enable-background:new 0 0 585 585;" xml:space="preserve">
 <style type="text/css">
 	.st0{enable-background:new    ;}
 </style>
 <g id="C_x2F_s_1_" class="st0">
 	<g id="C_x2F_s">
 		<g>
-			<path d="M73.1,0L0,73.1h146.3v73.1H73.1L0,219.4v73.1l73.1,73.1h73.1v73.1H0L73.1,512h73.1l73.1-73.1v-73.1l-73.1-73.1H73.1
-				v-73.1h73.1l73.1-73.1V73.1L146.3,0H73.1z M365.7,146.3V73.1H512L438.9,0h-73.1l-73.1,73.1v73.1l73.1,73.1h73.1v73.1h-73.1
-				l-73.1,73.1v73.1l73.1,73.1h73.1l73.1-73.1H365.7v-73.1h73.1l73.1-73.1v-73.1l-73.1-73.1h-73.1V146.3z"/>
+			<path d="M109.6,36.5l-73.1,73.1h146.3v73.1h-73.2l-73.1,73.2V329l73.1,73.1h73.1v73.1H36.5l73.1,73.3h73.1l73.1-73.1v-73.1
+				l-73.1-73.1h-73.1v-73.1h73.1l73.1-73.1v-73.4l-73-73.1L109.6,36.5L109.6,36.5z M402.2,182.8v-73.2h146.3l-73.1-73.1h-73.1
+				l-73.1,73.1v73.1l73.1,73.1h73.1v73.1h-73.1L329.2,402v73.1l73.1,73.1h73.1l73.1-73.1H402.2V402h73.1l73.1-73.1v-73.1l-73.1-73.1
+				h-73.1V182.8z"/>
 		</g>
 	</g>
+</g>
+<g>
+	<circle cx="0" cy="0" r="0"/>
+	<circle cx="585" cy="585" r="0"/>
 </g>
 </svg>

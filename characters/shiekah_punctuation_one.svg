@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+	 viewBox="0 0 585 585" style="enable-background:new 0 0 585 585;" xml:space="preserve">
 <style type="text/css">
 	.st0{enable-background:new    ;}
 </style>
 <g id="_x2D__x2F_s_1_" class="st0">
 	<g id="_x2D__x2F_s">
 		<g>
-			<polygon points="438.9,0 438.9,438.9 292.6,438.9 292.6,73.1 219.4,0 73.1,0 0,73.1 0,438.9 73.1,512 73.1,73.1 219.4,73.1 
-				219.4,438.9 292.6,512 438.9,512 512,438.9 512,73.1 			"/>
+			<polygon points="475.4,36.5 475.4,475.4 329.1,475.4 329.1,109.6 255.9,36.5 109.6,36.5 36.5,109.6 36.5,475.4 109.6,548.5 
+				109.6,109.6 255.9,109.6 255.9,475.4 329.1,548.5 475.4,548.5 548.5,475.4 548.5,109.6 			"/>
 		</g>
 	</g>
+</g>
+<g>
+	<circle cx="0" cy="0" r="0"/>
+	<circle cx="585" cy="585" r="0"/>
 </g>
 </svg>
